@@ -1,4 +1,3 @@
-// https://leetcode.cn/problems/lru-cache/submissions/683031208/?envType=study-plan-v2&envId=top-100-liked
 import java.util.HashMap;
 import java.util.Map;
 
